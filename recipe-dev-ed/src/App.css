@@ -1,0 +1,44 @@
+.App{
+  margin-left:5vw;
+  margin-right:5vw;
+}
+.naslov{
+  text-align: center;
+}
+
+.content {
+  display:flex;
+  justify-content: space-around;
+  flex-wrap:wrap;
+  width:80vw;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.search-form{
+  width:30vw;
+  margin-left:auto;
+  margin-right:auto;
+  
+  display:flex;
+  justify-content: space-around;
+}
+
+.search-form button{
+  background-color: rgb(0, 202, 91);
+  border-radius:2vw;
+  width:5vw;
+  height:2.3vw;
+  font-weight: bold;
+}
+
+.search-form input{
+  width:20vw;
+  height:2vw;
+  font-weight: bold;
+  
+}
+
+.recipes{
+   width:25vw;
+}
